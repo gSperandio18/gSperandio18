@@ -1,6 +1,6 @@
 # 📞 Hi! This is gSperandio. Leave a message after the beep!
 🔭 Checking out tech and sharing the ride!<br>
-👩🏻‍💻 Studying Computer Science at the University of Brasília [UnB](https://cic.unb.br/), Brazil<br>
+👩🏻‍💻 Studying Computer Science at the University of Brasília ([UnB](https://cic.unb.br/)), Brazil<br>
 🌱 Currently learning about networks and system automation, specially on Huawei's switches<br>
 💬 Feel free to say hi whenever!
 
